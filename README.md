@@ -7,8 +7,8 @@ Aiming to becoming a Developer
 In my free time I like to learn about C# .NET and Python as well as improve my skills!
 
 * 🌍  I'm based in Athens
-* ✉️  You can contact me at [dimitris.stavridis10@gmail.com](mailto:dimitris.stavridis10@gmail.com)
-* 🧠  I'm learning C# , .NET , Python
+* ✉️  You can contact me at [stav.dimitris10@gmail.com](mailto:stav.dimitris10@gmail.com)
+* 🧠  I'm learning C# , Java , Python
 
 <a href="https://www.github.com/wolfakiss" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wolfakiss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
